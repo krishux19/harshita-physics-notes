@@ -41,7 +41,7 @@ st.divider()
 # =====================================================
 
 NOTES_PATH = (
-    "study/physics/"
+    "github_notes_deploy/study/physics/"
     "cs11ch1-units_and_measurements/"
     "notes_output.md"
 )
