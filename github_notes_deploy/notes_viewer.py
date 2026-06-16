@@ -37,7 +37,7 @@ section[data-testid="stSidebar"] {
 CHAPTERS = {
 
     "📏 Units and Measurement":
-    "github_notes_depl/study/physics/cs11ch1/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch1/notes_output.md",
 
     "➡️ Motion in a Straight Line":
     "study/physics/cs11ch2/notes_output.md",
