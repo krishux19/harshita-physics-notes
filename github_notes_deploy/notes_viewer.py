@@ -40,22 +40,22 @@ CHAPTERS = {
     "github_notes_deploy/study/physics/cs11ch1/notes_output.md",
 
     "➡️ Motion in a Straight Line":
-    "study/physics/cs11ch2/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch2/notes_output.md",
 
     "🛩️ Motion in a Plane":
-    "study/physics/cs11ch3/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch3/notes_output.md",
 
     "⚖️ Laws of Motion":
-    "study/physics/cs11ch4/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch4/notes_output.md",
 
     "⚡ Work Energy and Power":
-    "study/physics/cs11ch5/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch5/notes_output.md",
 
     "🔄 System of Particles and Rotational Motion":
-    "study/physics/cs11ch6/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch6/notes_output.md",
 
     "🌍 Gravitation":
-    "study/physics/cs11ch7/notes_output.md",
+    "github_notes_deploy/study/physics/cs11ch7/notes_output.md",
 }
 
 # =====================================================
